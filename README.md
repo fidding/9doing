@@ -1,2 +1,2 @@
-# 9度乐品官网 www.9doing.net
+# 9度乐品展示地址
 # http://fidding.github.io/9doing.
