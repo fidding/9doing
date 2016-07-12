@@ -1,2 +1,5 @@
-# 9度乐品展示地址
-# http://fidding.github.io/9doing.
+## 9度乐品
+
+## DEMO
+
+ 演示地址http://fidding.github.io/9doing.
