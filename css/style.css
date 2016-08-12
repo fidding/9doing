@@ -23,7 +23,7 @@ body{
 }
 .nav-item-active a{
 	font-weight: bold !important;
-	color:#fff !important;	
+	color:#fff !important;
 }
 .item img{
 	margin:0 auto;
@@ -125,7 +125,7 @@ body{
 }
 .home-advantage-right{
 	text-align: center;
-	font-family: "Microsoft YaHei";	
+	font-family: "Microsoft YaHei";
 }
 .home-about-container{
 	background: #298C60;;
@@ -170,7 +170,7 @@ body{
 }
 .home-about-img img{
 	width:100%;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
 .index-content{
 	width:100%;
@@ -325,19 +325,19 @@ em{
 	display:block;
 	width: 160px;
 	height: 40px;
-	line-height:40px;	
+	line-height:40px;
 }
 .look-more-product a:hover{
 	color:#fff;
 }
-/* 
+/*
 *recruit.html
  */
 
 .recruit-full{
 	width:100%;
 	height:100%;
-	text-align: center;	
+	text-align: center;
 	z-index: 500;
 }
 .content-2-1 span,.content-2-2 span,.content-2-3 span,.content-2-4 span{
@@ -370,7 +370,7 @@ em{
 	height:100px;
 	margin:10px auto;
 	padding:0px 20px;
-	text-align:center;	
+	text-align:center;
 }
 .content-2-1 h3,.content-2-2 h3,.content-2-3 h3,.content-2-4 h3{
 	font-weight: bold;
@@ -380,7 +380,7 @@ em{
 .content-2-4{
 	width:50%;
 	margin:50px auto;
-	text-align:center;	
+	text-align:center;
 }
 
 .company-article{
@@ -443,7 +443,7 @@ em{
 	position: absolute;
 	width:40%;
 	right:10%;
-	height:130px;	
+	height:130px;
 	overflow: hidden;
 }
 /*
@@ -533,7 +533,7 @@ em{
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;	
+	transition: all 0.2s ease-in-out;
 }
 
 .top_box{
@@ -667,7 +667,7 @@ em{
 	height: 100%;
 	content: " ";
 	position: absolute;
-	background:rgba(68, 68, 68, 0.2);	
+	background:rgba(68, 68, 68, 0.2);
 }
 .about-teams-title{
 	text-align: center;
@@ -757,7 +757,7 @@ em{
 	transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
-	-webkit-transition: all 0.2s ease-in-out; 
+	-webkit-transition: all 0.2s ease-in-out;
 }
 .about-teams ul  li:hover > .team-img div {
 	top: 30%;
@@ -842,7 +842,7 @@ em{
 	content: " ";
 	margin-left: -35px;
 	position: absolute;
-	background: #196C47;	
+	background: #196C47;
 }
 .jl-container-title p{
 	font-size: 17px;
@@ -879,7 +879,7 @@ em{
 	height:400px;
 	content: " ";
 	position: absolute;
-	background: rgba(0,0,0,0.1);		
+	background: rgba(0,0,0,0.1);
 }
 
 .home-whyus ul{
@@ -1024,4 +1024,25 @@ em{
 	color: #fff;
 	margin-bottom: 20px;
 	font-size:14px;
+}
+#qa_content div{
+    margin-top:45px;
+}
+.question{
+    padding-left: 20px;
+}
+.answer{
+    border-spacing: 0;
+    border-width: 1px;
+    border-style: dashed;
+    padding: 0;
+    padding: 20px;
+    line-height: 30px;
+    font-size: 16px;
+    background-color: #298c60;
+    text-align: justify;
+    color: #fff;
+}
+.answer strong{
+    font-size: 20px;
 }
